@@ -1,0 +1,50 @@
+/.vercel
+/node_modules
+/dist
+/.angular
+/.sass-cache
+
+# Arquivos de configuração
+/angular.json
+/tsconfig.json
+/tsconfig.app.json
+/tsconfig.spec.json
+/tslint.json
+/karma.conf.js
+/protractor.conf.js
+
+# Arquivos gerados automaticamente
+/.editorconfig
+/.browserslistrc
+/.prettierrc
+/jest.config.js
+
+# IDEs and editors  
+/.idea  
+.project  
+.classpath  
+.c9/  
+*.launch  
+.settings/  
+*.sublime-workspace  
+  
+# IDE - VSCode  
+.vscode/*  
+!.vscode/settings.json  
+!.vscode/tasks.json  
+!.vscode/launch.json  
+!.vscode/extensions.json  
+  
+# misc  
+/.sass-cache  
+/connect.lock  
+/coverage  
+/libpeerconnection.log  
+npm-debug.log  
+yarn-error.log  
+testem.log  
+/typings  
+  
+# System Files  
+.DS_Store  
+Thumbs.db  
